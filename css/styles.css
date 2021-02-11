@@ -1,0 +1,108 @@
+.jumbotron {
+    margin:0;
+    padding: 30px; 
+    background-image: linear-gradient(to right, #FFF3E9, #FFF3E9, #FFF3E9);
+    color: #451F08;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #451F08;
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 25px;
+    
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px
+}
+.carousel {
+    border: solid #622F00 5px;
+}
+
+h3, h5 {
+    color: #451F08;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+.img-thumbnail {
+    border: solid #622F00 7px;
+}
+
+footer {
+
+    background-image: linear-gradient(#F4A473, #F4A473);
+    padding: 10px 0;
+    margin-top: 30px;
+}  
+
+.food-menu-card {
+    padding: 30px 20px;
+    background-image: linear-gradient(#fa983a, #fa983a);
+    border-radius: 8px;
+}
+
+.food-menu-card .media {
+    margin-bottom: 5px;
+}
+
+.food-menu-card .media .img-fluid {
+    border-radius: 3px;
+    width: 80px;
+}
+
+.food-menu-card .media .d-flex {
+    position: relative;
+}
+
+.food-menu-card .media .d-flex:before {
+    content: "";
+    position: absolute;
+    left: auto;
+    right: 0;
+    width: 100%;
+    height: 1px;
+    background-color: rgba(255, 255, 255, 0.2);
+    top: 50%;
+}
+
+.food-menu-card .media h3 {
+    position: relative;
+    display: inline-block;
+    margin-bottom: 0;
+    padding-right: 1.07143rem;
+    background-color: #451F08;
+    z-index: 2;
+}
+
+.food-menu-card .media strong {
+    background-color: #451F08;
+    display: block;
+    padding-left: 15px;
+    z-index: 2;
+    position: relative;
+}
+
+.tabs-menu-nav > li > a {
+    color: #451F08;
+    display: block;
+    font-size: 16px;
+    border-bottom: 3px solid transparent;
+    opacity: 0.5;
+}
+
+.tabs-menu-nav > li > a.active {
+    opacity: 1;
+    border-bottom-color: #db2e2e;
+}
+.media-body, p {
+    color: black;
+}
+.flush-headingOne {
+    background-image: #451F08;
+}
+
+.btn, btn-link {
+    color: #451F08;
+}
+
